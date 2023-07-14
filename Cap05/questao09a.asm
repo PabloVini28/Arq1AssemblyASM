@@ -1,4 +1,4 @@
- ; Correção: 0,8. Nós já aprendemos o scanf. Próxima vez, use ele, não peça para mudar manualmente. 
+ 
     .686
     .model flat, c
     .stack 100h
@@ -11,7 +11,7 @@ resultado sdword ?
     .code
 main proc
 
-        ; Mude manualmente o n para obter o fatorial que quiser
+        ; Mude manualmente o n para obter o fatorial que quiser, ou insira o comando scanf
 
         mov ecx, numero
         mov eax, 1
