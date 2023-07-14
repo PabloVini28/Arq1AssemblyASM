@@ -1,8 +1,6 @@
 
 ### QUESTÃO 01 -
 
-> Correção: 0,5
-
         A - CORRETO
 
         B - CORRETO
@@ -16,8 +14,6 @@
         F - INCORRETO, HA DOIS ACESSOS DE MEMÓRIA
 ----
 ### QUESTÃO 02 -
-
-> Correção: 0,5
 
         A - 5
 
@@ -53,9 +49,6 @@
             mov [esi], eax
 ----
 ### QUESTÃO 04 -
-
-> Correção: 0,5
-
 
         A - 5
 
