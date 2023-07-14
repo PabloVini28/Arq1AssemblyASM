@@ -1,4 +1,4 @@
-# Arquitetura de Computadores 1 -
+# Arquitetura de Computadores I -
 CÓDIGOS EM ASSEMBLY ASM FEITOS DURANTE O TERCEIRO SEMESTRE DE ENGENHARIA DE COMPUTAÇÃO
 ## DESENVOLVEDORES:
 
