@@ -1,4 +1,4 @@
-; Correção: 0,2
+
     .686
     .model flat, c
     .stack 100h
