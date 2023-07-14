@@ -2,7 +2,6 @@
     .model flat, c
     .stack 100h
 printf PROTO arg1:Ptr Byte, printlist:VARARG
-; Correção: 1,0
     .data
 msg1fmt byte 0Ah,"%d",0
 msg1 byte "funfou",0
