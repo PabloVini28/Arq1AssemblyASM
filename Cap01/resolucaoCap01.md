@@ -97,10 +97,9 @@ instructions to implement each of the following C statements or segments:
         MOV i, 1
 
 - B. x = y;
-> Correção: aqui você fez y = x, não x = y.
 
-        MOV eax, x
-        MOV y, eax
+        MOV eax, y
+        MOV x, eax
 
 - C. c = 2; 
      b = c;
