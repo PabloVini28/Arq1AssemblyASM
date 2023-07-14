@@ -1,11 +1,9 @@
 ### Questão 01 -
 
-> Correção: 0,3. Existe a instrução _stosb_.
-
         a) INCORRETA, O CORRETO É "movsb"
         b) CORRETA
         c) CORRETA
-        d) INCORRETO, O CORRETO SERIA "storsb"
+        d) CORRETA
         e) INCORRETA, O CORRETO SERIA "rep storsb
         f) INCORRETA, O CORRETO SERIA "lodsb"
 
