@@ -1,7 +1,5 @@
 ### Questão 01
 
-> Correção: 0,1
-
         a) Incorreto pois não existe o (.for) e (.endfor) no MASM
 
         b) Incorreto, falta o . da diretiva .while e no mesmo while está ocorrendo dois acessos à memória simultaneamente.
@@ -15,7 +13,7 @@
 ------
 ### Questão 02
 
-> Correção: 0,0. Este não é o último código da seção 5.1. Vocês pegaram o segundo código.
+> Este é o último código da seção 5.1.
 
 ```asm
             mov i, 1
