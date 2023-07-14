@@ -1,4 +1,3 @@
-> Correção: 1,7
 
 ### QUESTÃO 01 -
 
@@ -38,19 +37,17 @@
 ----
 ### QUESTÃO 03 -
 
-> Correção: 0,2
-
         A - mov num+0,1
 
         B - mov eax, x+8
             mov x+4, eax
 
-> Correção: _ebx_ foi inicializado com o que?
+> Inicializar ebx com valor desejado!
 
         C - mov eax, num[ebx]
             mov num+4[ebx], eax
 
-> Correção: Mesma coisa. Você começa a usar _edi_ e _esi_ sem inicializar.
+> Aqui também!
 
         D - mov eax, [edi] 
             mov [esi], eax
