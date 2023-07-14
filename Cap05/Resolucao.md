@@ -27,7 +27,6 @@ endw01:     nop
 ------
 ### Questão 03
 
-> Correção: 0,1
 
         a) O loop ocorrerá 3 vezes
 
