@@ -1,7 +1,5 @@
 ## QUESTIONÁRIO 06
 
-> Correção: 0,4. Na letra G), não existe o registrador _exc_.
-
 
 ### QUESTÃO 01
 
@@ -17,7 +15,7 @@
 
         F) INCORRETO, Há dois acessos na memória
 
-        G) CORRETO
+        G) INCORRETO, não existe registrador _exc_
 
         H) INCORRETO, o comando LOL não existe
 
@@ -27,8 +25,6 @@
 -----
 
 ### QUESTÃO 02
-
-> Correção: 0,5
 
 A)
 ```asm
@@ -70,7 +66,6 @@ mov a, eax
 -----
 ### QUESTÃO 03
 
-> Correção: 0,5
 
 ```asm
 push eax
