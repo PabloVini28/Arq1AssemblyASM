@@ -1,5 +1,5 @@
     .686
-; Correção: 0,0. Era para fazer sem as diretivas, vocês fizeram com diretivas.
+; Feito com diretivas
     .model flat, c
     .stack 100h
 printf PROTO arg1:Ptr Byte, printlist:VARARG
