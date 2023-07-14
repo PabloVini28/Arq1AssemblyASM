@@ -1,9 +1,7 @@
 # Cap 01
-> Correção: 1,9
 
 1. Which of the following are syntactically correct variable names in assembly
 language?
-> Correção: 0,4
 - A. RX8   
 
         CORRETA
@@ -27,7 +25,7 @@ language?
 <br>
 
 2. Implement each of the following declarations in assembly language:
-> Correção: 0,4
+
 - A. char initial;
         
         initial byte ?
@@ -59,7 +57,7 @@ language?
 3. Assuming that the variables have been declared properly, indicate whether the
 following statements are syntactically correct or incorrect. If incorrect, indicate
 what is wrong with the statement:
-> Correção: 0,4
+
 - A. move cat,5 
     
         INCORRETA, se escreve MOV
@@ -90,7 +88,6 @@ what is wrong with the statement:
 4. Assuming all the variables are declared as sdword, write assembly language
 instructions to implement each of the following C statements or segments:
 
-> Correção: 0,3
 
 - A. i = 1;
 
@@ -134,8 +131,6 @@ instructions to implement each of the following C statements or segments:
 <br>
 5. Assuming all the variables are declared as byte, write assembly language
 instructions to implement each of the following C statements or segments:
-
-> Correção: 0,4
 
 - A. a = 'B';
 
