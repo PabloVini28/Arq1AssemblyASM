@@ -1,6 +1,5 @@
 ### QUESTÃO 01 - 
 
-> Correção: 0,0. Não existe a diretiva de montagem condicional _elseif_.
 
         A) INCORRETO, POIS A MANEIRA CORRETA SERIA USANDO RET AO INVÉS DE RETURN.
 
@@ -12,7 +11,7 @@
 
         E) CORRETA.
 
-        F) CORRETA.
+        F) INCORRETA, POIS NÃO EXISTE A DIRETIVAD E MONTAGEM CONDICIONAL elseif
 
         G) CORRETA.
 
