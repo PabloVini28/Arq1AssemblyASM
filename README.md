@@ -1,5 +1,5 @@
 # 🖥️ Arquitetura e Organização de Computadores I
-## Repositório de Atividades
+## Repositório de Atividades 📝
 ### 👥 Membros:
 
 - Pablo Vinicios <br>
