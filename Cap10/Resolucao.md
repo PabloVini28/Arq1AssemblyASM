@@ -1,6 +1,5 @@
 ### QUESTÃO 01 -
 
-> Correção: 0,5
 
         A) Z = 8
 
@@ -15,7 +14,6 @@
 
 ### QUESTÃO 02 -
 
-> Correção: 0,3
 
 #### A)
 ```asm
@@ -61,21 +59,20 @@
 ```
 
 #### D)
-
-> Correção: Aqui, pela ordem de avaliação, o _i_ e _j_ seria multiplicados primeiro. 
+ 
 
 ```asm
 ; data = i * j + (k / (m – n));
 ; kmn-/ij*+
 
+    fld i 
+    fld j 
+    fmul
     fld k
     fld m
     fld n
     fsub
     fdiv
-    fld i 
-    fld j 
-    fmul
     fadd
     fstp data
 ```
