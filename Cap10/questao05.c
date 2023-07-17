@@ -1,4 +1,4 @@
-// Correção: 0,3. Cadê a versão float?
+// sem a versão float
 #include <stdio.h>
 int main() {
   
